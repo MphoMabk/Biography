@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(204, 162, 162);
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Add more CSS styles to customize your content sections */
